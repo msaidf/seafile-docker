@@ -1,4 +1,4 @@
-FROM easypi/alpine-arm:3.4
+FROM armhf/alpine:3.4
 MAINTAINER Vladimir Goshev <sunx@sunx.name>
 
 # SEAFILE_SERVER_DIR:
